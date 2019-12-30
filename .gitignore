@@ -1,0 +1,12 @@
+zip/
+__pycache__/
+.ipynb_checkpoints/
+misc/
+.idea/
+lecture_slide/
+data/
+.pytest_cache/
+
+*.py[cod]
+*.npy
+*.pickle
