@@ -1,6 +1,9 @@
 # CS224n: Natural Language Processing with Deep Learning
 **Stanford / Winter 2019**
 
+![](http://web.stanford.edu/class/cs224n/images/stanfordlogo.jpg)
+![](http://web.stanford.edu/class/cs224n/images/stanford-nlp-logo-160.jpg)
+
 This repository is my complete implementation for assignments and projects in the course.
 
 ## Course links
